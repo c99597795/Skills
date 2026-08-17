@@ -1,0 +1,4 @@
+interface:
+  display_name: "Textbook Learning Package"
+  short_description: "Orchestrate verified textbook slides and study guides"
+  default_prompt: "Use $build-textbook-learning-package to turn this textbook chapter into a verified Traditional Chinese slide deck and exercise study guide."
