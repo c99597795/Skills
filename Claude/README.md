@@ -1,5 +1,7 @@
 # Claude Stock Analysis
 
+> 這個資料夾還有另一個 Skill:[Video to Deck](skills/video-to-deck/README.md) — 把講解型影片轉成字幕文字檔、教學簡報與逐頁講稿。
+
 一個給 Claude Code 用的 Skill,把 [TradingAgents](https://github.com/TauricResearch/TradingAgents) 的多 agent 投資分析流程移植成「Claude 自己扮演角色 + 純 Python 取資料」的版本。**不需要任何 LLM API 金鑰。**
 
 ## Included
